@@ -1,0 +1,8 @@
+3#Carro com falha#Impressora#12313
+3#Que coisa em doida#Hardware#weqeqeq
+1#Carro com falha#Hardware#12313
+3#Notebook com problema#Hardware#12331
+2#Carro com falha#Hardware#12313
+2#User1#Hardware#222
+2#somente_user1#Rede#adsasd
+2#User122222#Software#adasda
